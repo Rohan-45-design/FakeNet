@@ -9,11 +9,11 @@ Multi-modal bot detection system using:
 
 ## Team
 
-Member 1 - Data Engineering
+Member 1 - Data Engineering - Issues(1 and 2)
 
-Member 2 - Research & Literature
+Member 2 - Research & Literature - Issues(3 and 4)
 
-Member 3 - Infrastructure & Architecture
+Member 3 - Infrastructure & Architecture - Issues(5)
 
 ## Current Phase
 
