@@ -1,0 +1,7 @@
+# Problem Statement
+
+The increasing use of social media has significantly improved global communication and information sharing. However, these platforms are also exploited by automated bot accounts that perform activities such as spreading misinformation, generating spam, manipulating public opinion, promoting fraudulent campaigns, and artificially influencing online discussions. The growing sophistication of modern bots makes them increasingly difficult to distinguish from genuine human users.
+
+Existing bot detection systems often rely on a single source of information, such as user metadata, textual content, or network interactions. While these approaches perform well in specific scenarios, they frequently fail to capture the complex behavior exhibited by advanced bots, resulting in reduced detection accuracy and poor generalization across different datasets.
+
+To address these limitations, this project proposes **FakeNet**, a multi-modal bot detection framework that combines metadata features, Natural Language Processing (NLP), Graph Neural Networks (GNNs), and Reinforcement Learning (RL). By integrating multiple feature modalities and enabling adaptive learning, the proposed system aims to improve detection performance, increase robustness against evolving bot behaviors, and provide a scalable solution for social media bot detection.
